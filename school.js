@@ -8,8 +8,6 @@ function second() {
 // комментароий для пробы сохранения
     //document.getElementById(d).innerHTML= n;
 
-    //добавляю строку для коммита на гитхаб. проба.
-    // строка из VS Code
 }
 
 
