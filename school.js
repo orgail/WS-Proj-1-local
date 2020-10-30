@@ -9,6 +9,7 @@ function second() {
     //document.getElementById(d).innerHTML= n;
 
     //добавляю строку для коммита на гитхаб. проба.
+    // строка из VS Code
 }
 
 
